@@ -1,0 +1,4 @@
+<div class="pravacast">
+    <img class="foto"src="facebook.jpg">
+    <img class="foto"src="instagram.jpg">
+    <img class="foto"src="pinterest.jpg">

@@ -1,0 +1,62 @@
+*
+{
+    background-image: url("drevootvaram.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+     height: 100%; 
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    line-height: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+table
+{  
+font-size: 30px;
+font-family: arial, sans-serif;
+border-collapse: collapse;
+height: 150px;
+margin-left: 800px;
+color: white;
+text-align: center;
+}
+
+
+td, th
+{
+
+padding: 12px;
+text-align: left;
+height: auto;
+} 
+
+
+.nadpis{
+    text-align: center;
+    margin-left: 50px;
+}
+
+.napisk
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 28px;
+    text-decoration: none;
+    font-weight: 500;
+    color: white;
+    background-color: black;
+    text-align: center;
+    margin-left: 900px;
+}
+.napisk:hover
+{
+    color: rgb(155, 114, 0);
+    text-decoration: underline;
+    text-decoration-color: rgb(155, 114, 0);
+    transition: 1s;
+}
+
+
